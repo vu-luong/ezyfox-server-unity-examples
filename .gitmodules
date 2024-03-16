@@ -1,0 +1,4 @@
+[submodule "unity-server/Assets/Extensions/ezyfox-server-csharp-client"]
+	path = unity-server/Assets/Extensions/ezyfox-server-csharp-client
+	url = git@github.com:youngmonkeys/ezyfox-server-csharp-client.git
+	branch = unity-client
