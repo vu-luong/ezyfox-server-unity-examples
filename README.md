@@ -11,3 +11,6 @@
 ![image](https://github.com/vu-luong/ezyfox-server-unity-examples/assets/8142030/7e6d315e-0218-4b0b-9e92-7cd4705cd114)
 
 - Click `Build And Run` and select the build destination.
+
+# Logic
+- Every 5 seconds, the ezyfox server calls to unity server to move the transform position of a game object and receives the new position.
